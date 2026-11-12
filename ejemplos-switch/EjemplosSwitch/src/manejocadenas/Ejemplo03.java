@@ -45,3 +45,6 @@ public class Ejemplo03 {
         
     }
 }
+/*
+Para guardar diferentes datos en la misma variable
+*/
